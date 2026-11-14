@@ -1,7 +1,7 @@
 # CodeAlpha 
 ## Task 1: Exploratory Data Analysis (EDA) on Students Performance
 **Notebook by:** Ranjana Singh 
-**Notebook:** [CodeAlpha_EDA_Students_Performance.ipynb](CodeAlpha_EDA_Students_Performance (1).ipynb)
+**Notebook:** [codealpha-eda-students-performance.ipynb](codealpha-eda-students-performance.ipynb)
 
 
 ## Project Overview
