@@ -1,7 +1,7 @@
 # CodeAlpha 
 ## Task 1: Exploratory Data Analysis (EDA) on Students Performance
-**Notebook by:** Ranjana Singh
-**Notebook:** Kaggle notebook codealpha-eda-students-performance (1).ipynb
+**Notebook by:** Ranjana Singh 
+**Notebook:** [CodeAlpha_EDA_Students_Performance.ipynb](CodeAlpha_EDA_Students_Performance (1).ipynb)
 
 
 ## Project Overview
@@ -14,6 +14,7 @@ The objective is to explore student scores, identify patterns, understand relati
 - **Author:** spscientist
 - **Records:** 1,000 students
 - **Original Features:** 8 columns
+
 The dataset is not included in this repository. Download it from the [Kaggle dataset page](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams). No license is specified on the page.
 
 ## Objectives
